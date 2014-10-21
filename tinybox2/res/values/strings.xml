@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tinybox</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="main_label">时间线</string>
+    <string name="share_label">发微博</string>
+    
+    <string name="main_action_shareWeibo">发微博</string>
+    <string name="main_action_refresh">刷新</string>
+    
+    <string name="share_action_sendWeibo">发送</string>
+    
+    
+    <string name="list_item_user_icon">user_profile_image</string>
+	<string name="list_item_name">TB’s usr</string>
+	<string name="list_item_sourceAtime">TinyBox ~ 11:29</string>
+	<string name="list_item_txt">AndroidGoogleTinyWeiboTxT。。。</string>
+	<string name="list_item_img">body’s image.</string>
+	
+	<string name="share_button_at">at_btn</string>
+	<string name="share_button_album">album_btn</string>
+	<string name="share_button_pic">pic_btn</string>
+	<string name="share_button_huati">huati_btn</string>
+	<string name="share_et_txt">  分享此刻的欣喜与悲伤。。。</string>
+	<string name="share_pic_preview">pic_preview</string>
+</resources>
